@@ -30,8 +30,8 @@
         "tags": ["NodeJS", "ExpressJS", "ReactJS", "Rest APIs", "MongoDB","HTML","SCSS","GitHub"],
         "github": "https://github.com/zainabk1997/NestHub",
         "description": "Built a Tinder clone for matching potential roommates using MERN stack and SCSS for UI. Delivered room profile CRUD and preview in ReactJS with API development of the same in Express, user login backend in Express and mongoose, real-time user profile update on tinder swipe, and room profile tinder card UI. ",
-        "image": "/assets/featured-projects/NestHubProject.png",
-        "jpg": "/assets/featured-projects/NestHubProject.png"
+        "image": "/assets/other-projects/NestHubProject.png",
+        "jpg": "/assets/other-projects/NestHubProject.png"
     },
     {
         "id": "other-project-aging-notifier",
