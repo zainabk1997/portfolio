@@ -1,19 +1,22 @@
-# Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
+# Portfolio Template 
+> A simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
+![Portfolio Template Banner](public/assets/readme/zainabportfolio.png)
 
-💻  Live [demo](https://hpaul-v2.web.app/)
+💻  Live [demo](https://www.zainabkhokawala.com/)
 
 ---
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Connect](#connect)
-- [License](#license)
+- [Portfolio Template](#portfolio-template)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+    - [Setup](#setup)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Connect](#connect)
+  - [License](#license)
 
 ---
 
@@ -24,13 +27,13 @@
 Close repository
 
 ```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template-v2.git
+$ git clone https://github.com/zainabk1997/portfolio.git
 ```
 
 To install the node packages used in the project:
 
 ```shell
-$ cd portfolio-template-v2
+$ cd portfolio
 $ yarn install
 ```
 
@@ -47,7 +50,7 @@ $ yarn build
 
 ## Usage
 
-All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/hrishikeshpaul/portfolio-template-v2/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
+All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/zainabk1997/portfolio/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
 
 All the images are in `public/assets`.
 
@@ -59,12 +62,10 @@ All the images are in `public/assets`.
 
 ## Connect
 
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
+- Website at <a href="https://www.zainabkhokawala.com/" target="_blank">`https://www.zainabkhokawala.com/`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/zainabkhokawala/" target="_blank">`zainabkhokawala`</a>
 
 ## License
-
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
