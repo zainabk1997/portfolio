@@ -24,7 +24,7 @@
 
 ### Setup 
 
-Close repository
+Clone repository
 
 ```shell
 $ git clone https://github.com/zainabk1997/portfolio.git
