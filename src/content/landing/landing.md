@@ -1,10 +1,16 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Hello, I am an aspiring Full Stack Developer currently pursuing a Master's in Information Systems at Northeastern University. The idea of solving complex business problems in **Web Development**, **UX Design** and **Cloud Computing** is super enticing to me! Feel free to talk to me about movies and TV shows, creative writing, or your favorite cuisine!
 
 I'm currently working with,
 
--   React (TS)
+-   VueJS
+-   ReactJS
 -   NodeJS
--   Flask (Python)
+-   MERN Stack
 -   HTML/SCSS
--   WebSockets
--   GraphQL
+-   Terraform
+-   Amazon Web Services (AWS)
+-   Spring MVC
+-   PostgreSQL
+-   Moqups
+-   Balsamiq
+-   Figma

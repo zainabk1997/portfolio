@@ -47,7 +47,7 @@ export const Landing: FC = () => {
                         data-aos-delay="400"
                     >
                         <picture>
-                            <source type="image/webp" src={configs.landing.picture}></source>
+                            <source type="image/jpg" src={configs.landing.picture}></source>
                             <source type="image/jpeg" src={configs.landing.jpg}></source>
                             <Image borderRadius="xl" src={configs.landing.jpg} alt={`face-cover-image`} />
                         </picture>

@@ -1,64 +1,65 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "id": "other-project-greenbasket",
+        "title": "GreenBasket UI",
+        "year": "Sep 2023 - Oct 2023",
+        "github": "https://github.com/zainabk1997/uiux",
+        "demo":"https://app.moqups.com/AjwBIoBL2zq8mT0pwM5HSIF80nA2C24Y/view/page/ad64222d5",
+        "tags": ["Moqups","Figma","Persona Creation","User Flows","Prototyping"],
+        "description": "Used Moqups and IBM design thinking concepts to build a grocery retail app prototype with complete user personas, user registration, product selection, add to cart, delivery, payment, and order tracking flows.",
+        "image": "/assets/other-projects/greenbasket.png",
+        "jpg": "/assets/other-projects/greenbasket.png"
 
     },
     {
-        "id": "other-project-noq",
-        "title": "NoQ Job Portal",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
-        "demo": "http://noq-client.herokuapp.com/login",
-        "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
-        "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
-        "readMore": "https://hrishikeshpaul.medium.com/noq-a-job-portal-for-college-career-fairs-9996bbb37a1c",
-        "image": "/assets/other-projects/noq.webp",
-        "jpg": "/assets/other-projects/noq.jpeg"
+        "id": "other-project-knowmore",
+        "title": "Know More, Grow More",
+        "year": "Sep 2022 - Dec 2022",
+        "github": "https://github.com/zainabk1997/KnowMore_GrowMore",
+        "tags": ["Java", "Swing", "DB4O", "Application Design","GitHub"],
+        "description": "Developed a CRUD-based application for citywide education management with 4 enterprises, 6 organizations, 4 workflows, & 8 user roles. Based on user roles, users can add, view, update & delete profiles, grades, appointments, meal plans, and dormitories.Also delivered an email verification feature for new students and professors.",
+        "image": "/assets/other-projects/knowmore.webp",
+        "jpg": "/assets/other-projects/knowmore.webp"
+
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
-        "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
+        "id": "featured-project-nesthub",
+        "location": "Northeastern University, Boston, MA",
+        "title": "NestHub",
+        "year": "Sep 2022 - Dec 2022",
+        "tags": ["NodeJS", "ExpressJS", "ReactJS", "Rest APIs", "MongoDB","HTML","SCSS","GitHub"],
+        "github": "https://github.com/zainabk1997/NestHub",
+        "description": "Built a Tinder clone for matching potential roommates using MERN stack and SCSS for UI. Delivered room profile CRUD and preview in ReactJS with API development of the same in Express, user login backend in Express and mongoose, real-time user profile update on tinder swipe, and room profile tinder card UI. ",
+        "image": "/assets/featured-projects/NestHubProject.png",
+        "jpg": "/assets/featured-projects/NestHubProject.png"
     },
     {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
+        "id": "other-project-aging-notifier",
+        "title": "Automated Aging Incident Notifier System",
+        "year": "Jan 2022 - May 2022",
+        "github": "https://github.com/zainabk1997/AgingIRNotifier",
+        "tags": ["Google Suite", "Google App Script", "Gmail", "JIRA", "HTML", "CSS"],
+        "description": "With the accelerated roll-outs of Atlas for multiple subsdiaries, there was a prime focus on support resources to prioritize tickets and follow-up with users. By leveraging Google Apps Script and Sheets, I was able to extract the user details, JIRA links, incident descriptions and ids, and the SLA deadlines and send a summary every day to every resource so that they could prioritize the closest deadline. This helped in improving resource efficiency and increased follow-ups with Atlas users.",
+        "image": "/assets/other-projects/notifier.png",
+        "jpg": "/assets/other-projects/notifier.png"
+    },
+    {
+        "id": "other-project-grossprice",
+        "title": "Gross Price Mismatch Automation System",
+        "year": "Feb 2021 - May 2021",
+        "tags": ["Python", "Pandas", "Django MVC", "PostgreSQL","GitHub Actions"],
+        "description": "Created a program to resolve global pricing discrepancy by dividing it into two parts to accommodate pricing at the country level and the customer level. Using pandas data frames, I obtained the SKU numbers, prices, validity dates, country codes, and customer ids as an API from SAP ECC and compared it with the same fields in the PostgreSQL pricing table. In case of any differences, the function for generating a new pricelist would be called and the user would be notified about the erroneous SKUs via email.",
+        "image": "/assets/other-projects/report.png",
+        "jpg": "/assets/other-projects/report.png"
+    },
+    {
+        "id": "other-project-eod",
+        "title": "EOD Notifier System",
+        "year": "Oct 2019 - Dec 2019",
         "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
-    },
-    {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "description": "I noticed that resources in the team were having difficulty prioritizing the End of Day process management due to front-burner tasks related to various projects. Hence, I took up the challenge to implement an email based message notifier with month and week based parameters so that resources could plan any activites around EOD processes in advance. It helped in preventing any major SAP BW versioning issues with Asia, Americas, and Europe and improved on-call efficiency by 25%.",
+        "demo": "https://www.zainabkhokawala.com/_files/ugd/0467f0_378223602736465aaf8149cf921f04e5.pdf",
+        "image": "/assets/other-projects/eod.png",
+        "jpg": "/assets/other-projects/eod.png"
     }
 ]

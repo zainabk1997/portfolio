@@ -54,7 +54,7 @@ export const App: FC = () => {
                     </Box>
 
                     <Box id={AboutPageId}>
-                        <PageHeader label="About Me" />
+                        <PageHeader label="Education And Experience" />
                         <About />
                     </Box>
                 </Box>
